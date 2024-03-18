@@ -123,13 +123,13 @@ dmypy.json
 .pyre/
 
 # Azure Functions artifacts
-bin
-obj
-appsettings.json
-local.settings.json
+# bin
+# obj
+# appsettings.json
+# local.settings.json
 
 # Azurite artifacts
-__blobstorage__
-__queuestorage__
-__azurite_db*__.json
-.python_packages
+# __blobstorage__
+# __queuestorage__
+# __azurite_db*__.json
+# .python_packages
